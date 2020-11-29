@@ -1,3 +1,4 @@
 docs/build/
 _git2_*
 .gitignore
+.DS_Store
